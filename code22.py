@@ -7,7 +7,7 @@ c=0
 d=0
 marksList = []    #use list to add marks in list
 while  True:   #use while loop to run the code till condition is right
-    class=int(input("Enter your marks :"))
+    marks=int(input("Enter your marks :"))
     if marks<0:
         break  # use break to condition is false
     if marks <=29:
@@ -40,7 +40,7 @@ while a or b or c or d >0: #use while loop
     if c>0:
         print("  * \t",end=" ") #print star 
         c=c-1
-    if:
+    else:
         print("    \t",end=" ") #print space
     if d>0:
         print("  * \t",end=" ") #print star 
