@@ -42,7 +42,7 @@ while a or b or c or d >0: #use while loop
         c=c-1
     else:
         print("    \t",end=" ") #print space
-    if d>0:
+    else: d>0:
         print("  * \t",end=" ") #print star 
         d=d-1
     else:
