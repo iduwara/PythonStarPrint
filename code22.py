@@ -15,7 +15,7 @@ while  True:   #use while loop to run the code till condition is right
     elif marks <=39:
         b=b+1    # this use to find how many marks are in this range
     elif marks <=69:
-        c=c-1    # this use to find how many marks are in this range
+        c=c+1    # this use to find how many marks are in this range
     elif marks <=100:
         d=d+1    # this use to find how many marks are in this range
     if marks>=0 and marks<=100:
