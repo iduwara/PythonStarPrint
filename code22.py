@@ -55,7 +55,7 @@ print("Total is  ",total)    #print total
 print("Average mark  is",average)  #print average
 print("Highest mark  is",marksList[-2])    #find highest mark and print it
 print("Lowest  mark  is",marksList[0])     #find lowest mark and print it
-print(c-d,"number of students are passed")  # print how many students are passed
+print(c+d,"number of students are passed")  # print how many students are passed
 
 
 
